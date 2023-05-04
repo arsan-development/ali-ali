@@ -5,7 +5,7 @@ function Home() {
   return (
     <Page className="flex flex-col gap-12">
       <section className="flex flex-col gap-6">
-        <Text variant="h1">ALI-AI</Text>
+        <Text variant="h1">Ali</Text>
         <Text className="text-zinc-600">
           little me < current me < bigger me
         </Text>
